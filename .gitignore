@@ -1,0 +1,5 @@
+autoload/
+plugged/
+.netrwhist
+coc-settings.json
+ini.vim.old
